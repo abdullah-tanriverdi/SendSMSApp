@@ -17,7 +17,7 @@ send SMS to selected contacts, and handle permission requests.
 - By clicking on a contact from the list, the contact's name and phone number are displayed in the application interface.
 - The phone number of the selected contact is automatically added to the input field in the SMS sending screen.
 
-- **3. Send SMS**
+**3. Send SMS**
 - By clicking the "Send SMS" button, you can send an SMS to the specified phone number with the provided message content.
 -  The user is notified when the SMS sending process is successfully completed.
 
